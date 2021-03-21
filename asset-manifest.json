@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Todo-React-App/static/css/main.33923949.chunk.css",
-    "main.js": "/Todo-React-App/static/js/main.e5e61063.chunk.js",
-    "main.js.map": "/Todo-React-App/static/js/main.e5e61063.chunk.js.map",
+    "main.css": "/Todo-React-App/static/css/main.57607ae1.chunk.css",
+    "main.js": "/Todo-React-App/static/js/main.ced2ea74.chunk.js",
+    "main.js.map": "/Todo-React-App/static/js/main.ced2ea74.chunk.js.map",
     "runtime-main.js": "/Todo-React-App/static/js/runtime-main.6287ae57.js",
     "runtime-main.js.map": "/Todo-React-App/static/js/runtime-main.6287ae57.js.map",
     "static/js/2.441012d8.chunk.js": "/Todo-React-App/static/js/2.441012d8.chunk.js",
     "static/js/2.441012d8.chunk.js.map": "/Todo-React-App/static/js/2.441012d8.chunk.js.map",
     "index.html": "/Todo-React-App/index.html",
-    "static/css/main.33923949.chunk.css.map": "/Todo-React-App/static/css/main.33923949.chunk.css.map",
+    "static/css/main.57607ae1.chunk.css.map": "/Todo-React-App/static/css/main.57607ae1.chunk.css.map",
     "static/js/2.441012d8.chunk.js.LICENSE.txt": "/Todo-React-App/static/js/2.441012d8.chunk.js.LICENSE.txt",
     "static/media/bg-desktop-dark.73e47dbb.jpg": "/Todo-React-App/static/media/bg-desktop-dark.73e47dbb.jpg",
     "static/media/bg-desktop-light.3508d620.jpg": "/Todo-React-App/static/media/bg-desktop-light.3508d620.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.6287ae57.js",
     "static/js/2.441012d8.chunk.js",
-    "static/css/main.33923949.chunk.css",
-    "static/js/main.e5e61063.chunk.js"
+    "static/css/main.57607ae1.chunk.css",
+    "static/js/main.ced2ea74.chunk.js"
   ]
 }
