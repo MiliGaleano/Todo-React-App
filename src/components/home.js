@@ -82,7 +82,7 @@ const Home = () => {
         <div className={styles1}>
             <Header isDesktop={isDesktop} darkMode={darkMode} handleDarkMode={handleDarkMode} handleList={handleList} listTodos={listTodos} styles2={styles2} />
             <ListofTodos handleUpdateItem={handleUpdateItem} listTodos={listTodos} handleDeleteItem={handleDeleteItem} handleClear={handleClear} handleDrop={handleDrop} handleDrag={handleDrag} styles2={styles2}/>
-            {listTodos.length !== 0 &&
+            {(listTodos.length !== 0 && isDesktop) &&
             <p className='dragDrop'>Drag and drop to reorder list</p>
             }
         </div>

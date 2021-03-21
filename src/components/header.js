@@ -48,7 +48,7 @@ const Header = ({darkMode, isDesktop, handleDarkMode, handleList, listTodos, sty
     const lightimg = isDesktop ? BgLight : BgMobileLight
 
     return(
-        <div>
+        <div className='divHeader'>
             <img src={darkMode ? darkimg : lightimg} alt='bg img' className='imgHeader' />
             <div className='divLogo'>
                 <h1 className='logo'>T O D O</h1>

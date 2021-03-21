@@ -34,7 +34,7 @@ const ListofTodos = ({listTodos, handleUpdateItem, handleDeleteItem, handleClear
     }
 
     return (
-        <div>
+        <div className='divTodos'>
             <div className='divListTodos'>
                 {listToRender.sort((a, b) => a.order - b.order)
                 .map((todo) => { 
