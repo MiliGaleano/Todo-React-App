@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import Header from './header'
 import ListofTodos from './listofTodos'
+import Pomodoro from './pomodoro'
 
 const Home = () => {
 
@@ -85,6 +86,7 @@ const Home = () => {
             {(listTodos.length !== 0 && isDesktop) &&
             <p className='dragDrop'>Drag and drop to reorder list</p>
             }
+            <Pomodoro></Pomodoro>
         </div>
     )
 }
